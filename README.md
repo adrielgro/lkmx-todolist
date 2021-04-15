@@ -1,4 +1,4 @@
-# lkmx2
+# lkmx
 
 ## Project setup
 ```
